@@ -1,0 +1,30 @@
+{
+  "name": "@pres-inc/eslint-config-react",
+  "version": "0.1.0",
+  "description": "Shared eslint config for React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pres-inc/eslint-config-react.git"
+  },
+  "author": "Ken Matsui <26405363+ken-matsui@users.noreply.github.com>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/pres-inc/eslint-config-react/issues"
+  },
+  "homepage": "https://github.com/pres-inc/eslint-config-react#readme",
+  "publishConfig": {
+    "access": "restricted",
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "devDependencies": {
+    "eslint-plugin-react": "^7.29.4",
+    "eslint-plugin-react-hooks": "^4.4.0"
+  },
+  "peerDependencies": {
+    "eslint": ">= 8"
+  }
+}
