@@ -19,6 +19,10 @@
    ```bash
    $ npm install -D @pres-inc/eslint-config-react
    ```
+9. You also need to install peer dependencies
+   ```bash
+   $ npm install -D eslint eslint-plugin-react eslint-plugin-react-hooks
+   ```
 
 ## Usage
 
