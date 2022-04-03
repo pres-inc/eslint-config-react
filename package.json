@@ -1,6 +1,6 @@
 {
   "name": "@pres-inc/eslint-config-react",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Shared eslint config for React",
   "main": "index.js",
   "scripts": {
@@ -18,6 +18,10 @@
   "homepage": "https://github.com/pres-inc/eslint-config-react#readme",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
+  },
+  "devDependencies": {
+    "eslint-plugin-react": "^7.29.4",
+    "eslint-plugin-react-hooks": "^4.4.0"
   },
   "peerDependencies": {
     "eslint": ">= 8"
