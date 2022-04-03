@@ -1,8 +1,6 @@
 module.exports = {
-  "root": true,
   "plugins": [
     "react",
-    "react-hooks"
   ],
   "parserOptions": {
     "ecmaFeatures": {

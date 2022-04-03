@@ -1,6 +1,6 @@
 {
   "name": "@pres-inc/eslint-config-react",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "description": "Shared eslint config for React",
   "main": "index.js",
   "scripts": {
@@ -20,8 +20,7 @@
     "registry": "https://npm.pkg.github.com/"
   },
   "dependencies": {
-    "eslint-plugin-react": "^7.29.4",
-    "eslint-plugin-react-hooks": "^4.4.0"
+    "eslint-plugin-react": "^7.29.4"
   },
   "peerDependencies": {
     "eslint": ">= 8"
