@@ -8,7 +8,7 @@
    ```
 2. You also need to install peer dependencies
    ```bash
-   $ npm install -D eslint eslint-plugin-react eslint-plugin-react-hooks
+   $ npm install -D eslint
    ```
 
 ## Usage
